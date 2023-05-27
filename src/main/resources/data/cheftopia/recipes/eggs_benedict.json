@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:toasts"
+    },
+    {
+      "tag": "c:cooked_bacon"
+    },
+    {
+      "tag": "c:boiled_eggs"
+    },
+    {
+      "tag": "c:butters"
+    },
+    {
+      "tag": "c:lemons"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:eggs_benedict",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:frying_pans"
+    },
+    {
+      "tag": "c:doughs"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:pita",
+    "count": 2
+  }
+}

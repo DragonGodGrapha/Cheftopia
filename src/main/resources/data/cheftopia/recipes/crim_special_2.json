@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:frying_pans"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "croptopia:chicken_replacements"
+    },
+    {
+      "tag": "c:pepper"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:crim_special_2",
+    "count": 1
+  }
+}

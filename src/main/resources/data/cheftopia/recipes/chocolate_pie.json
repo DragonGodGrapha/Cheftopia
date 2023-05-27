@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:chocolates"
+    },
+    {
+      "tag": "c:sugars"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:doughs"
+    },
+    {
+      "tag": "c:frying_pans"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:chocolate_pie",
+    "count": 1
+  }
+}

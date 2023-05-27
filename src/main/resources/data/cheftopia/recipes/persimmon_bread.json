@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:persimmons"
+    },
+    {
+      "tag": "c:persimmons"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:cinnamon"
+    },
+    {
+      "tag": "c:raisins"
+    },
+    {
+      "tag": "croptopia:nuts"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:persimmon_bread",
+    "count": 1
+  }
+}

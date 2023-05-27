@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "item": "cheftopia:bagel"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:bagel_and_cream_cheese",
+    "count": 1
+  }
+}

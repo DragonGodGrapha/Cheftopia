@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:fried_chickens"
+    },
+    {
+      "tag": "c:fried_fishes"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "c:lettuce"
+    },
+    {
+      "tag": "c:mayos"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:nix_special_1",
+    "count": 1
+  }
+}

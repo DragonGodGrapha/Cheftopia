@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:butters"
+    },
+    {
+      "tag": "c:garlic"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:garlic_bread",
+    "count": 2
+  }
+}

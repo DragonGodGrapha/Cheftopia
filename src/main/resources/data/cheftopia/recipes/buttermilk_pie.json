@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:sugars"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:doughs"
+    },
+    {
+      "tag": "c:frying_pans"
+    },
+    {
+      "tag": "c:butters"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:buttermilk_pie",
+    "count": 1
+  }
+}

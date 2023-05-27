@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:frying_pans"
+    },
+    {
+      "tag": "croptopia:beef_replacements"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "c:cooked_bacon"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:bacon_mushroom_burger",
+    "count": 1
+  }
+}

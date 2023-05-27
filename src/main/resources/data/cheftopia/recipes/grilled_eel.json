@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "cheftopia:eel"
+  },
+  "result": "cheftopia:grilled_eel",
+  "experience": 0.35,
+  "cookingtime": 200
+}

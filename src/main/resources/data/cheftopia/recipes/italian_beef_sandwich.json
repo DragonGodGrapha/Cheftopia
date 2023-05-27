@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "croptopia:beef_replacements"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:mustard"
+    },
+    {
+      "tag": "c:chile_peppers"
+    },
+    {
+      "tag": "c:cauliflower"
+    },
+    {
+      "tag": "c:vinegars"
+    },
+    {
+      "tag": "c:olive_oils"
+    },
+    {
+      "tag": "c:onions"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:italian_beef_sandwich",
+    "count": 1
+  }
+}

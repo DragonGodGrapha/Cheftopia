@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cheftopia:eel"
+    },
+    {
+      "tag": "c:avocados"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "minecraft:fishes"
+    },
+    {
+      "tag": "c:cucumbers"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:dragon_roll",
+    "count": 2
+  }
+}

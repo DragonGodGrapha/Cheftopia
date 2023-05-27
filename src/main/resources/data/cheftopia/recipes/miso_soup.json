@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:soybeans"
+    },
+    {
+      "tag": "c:water_bottles"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "tag": "c:tofu"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:miso_soup",
+    "count": 1
+  }
+}

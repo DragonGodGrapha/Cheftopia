@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cheftopia:umeboshi"
+    },
+    {
+      "tag": "c:steamed_rices"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:onigiri",
+    "count": 2
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:chile_peppers"
+    },
+    {
+      "tag": "c:ground_pork"
+    },
+    {
+      "tag": "c:chile_peppers"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {"tag": "c:onions"}
+  ],
+  "result": {
+    "item": "cheftopia:green_chile_stew",
+    "count": 1
+  }
+}

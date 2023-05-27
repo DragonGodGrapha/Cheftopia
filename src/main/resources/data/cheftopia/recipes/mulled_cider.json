@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:apple_juices"
+    },
+    {
+      "tag": "c:cinnamon"
+    },    {
+      "tag": "c:nutmegs"
+    },
+    {
+      "tag": "c:gingers"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:mulled_cider",
+    "count": 1
+  }
+}

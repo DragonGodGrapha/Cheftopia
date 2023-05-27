@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "tag": "c:chocolates"
+    },
+    {
+      "tag": "c:sugars"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:brownies",
+    "count": 1
+  }
+}

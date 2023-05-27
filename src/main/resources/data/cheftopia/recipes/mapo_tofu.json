@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tofu"
+    },
+    {
+      "tag": "croptopia:meat_replacements"
+    },
+    {
+      "tag": "c:vegetables"
+    },
+    {
+      "tag": "c:vegetables"
+    },
+    {
+      "tag": "c:chile_peppers"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:mapo_tofu",
+    "count": 1
+  }
+}

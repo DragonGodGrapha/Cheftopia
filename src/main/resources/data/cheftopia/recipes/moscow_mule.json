@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:vodkas"
+    },
+    {
+      "tag": "c:sodas"
+    },
+    {
+      "tag": "c:gingers"
+    },
+    {
+      "tag": "c:cold"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:moscow_mule",
+    "count": 1
+  }
+}

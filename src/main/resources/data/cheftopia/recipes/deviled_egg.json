@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:boiled_eggs"
+    },
+    {
+      "tag": "c:mayos"
+    },
+    {
+      "tag": "c:paprika"
+    },
+    {
+      "tag": "c:pepper"
+    },
+    {
+      "tag": "c:mustard"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:deviled_egg",
+    "count": 2
+  }
+}

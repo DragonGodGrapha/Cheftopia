@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "croptopia:chicken_replacements"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:wines"
+    },
+    {
+      "tag": "c:garlic"
+    },
+    {
+      "tag": "c:frying_pans"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:chicken_marsala",
+    "count": 1
+  }
+}

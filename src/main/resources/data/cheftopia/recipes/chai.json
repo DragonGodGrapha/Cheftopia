@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tea_leaves"
+    },
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:paprika"
+    },
+    {
+      "tag": "c:pepper"
+    },
+    {
+      "tag": "c:gingers"
+    },
+    {
+      "tag": "c:cinnamon"
+    },
+    {
+      "tag": "c:sugars"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:chai",
+    "count": 1
+  }
+}

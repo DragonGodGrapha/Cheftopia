@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:supreme_pizzas"
+    },
+    {
+      "item": "cheftopia:strawberry_milk"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:crim_special_1",
+    "count": 1
+  }
+}

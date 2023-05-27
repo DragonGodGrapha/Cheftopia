@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:coffee_beans"
+    },
+    {
+      "tag": "c:coffee_beans"
+    },
+    {
+      "tag": "c:water_bottles"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:espresso",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:lettuce"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "cheftopia:fried_oysters"
+    },
+    {
+      "tag": "c:tomatoes"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:oyster_poboy",
+    "count": 1
+  }
+}

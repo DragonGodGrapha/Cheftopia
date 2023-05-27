@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:olive_oils"
+    },
+    {
+      "tag": "c:cooking_pots"
+    },
+    {
+      "tag": "c:tomatoes"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:mozzarella_sticks",
+    "count": 4
+  }
+}

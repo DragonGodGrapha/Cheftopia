@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tea_leaves"
+    },
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:oranges"
+    },
+    {
+      "tag": "c:vanilla"
+    },
+    {
+      "tag": "c:sugars"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:earl_grey_latte",
+    "count": 1
+  }
+}

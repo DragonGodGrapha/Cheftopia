@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cheftopia:green_chile_stew"
+    },
+    {
+      "item": "croptopia:refried_beans"
+    },
+    {
+      "tag": "c:sunny_side_eggs"
+    },
+    {
+      "tag": "c:sunny_side_eggs"
+    },
+    {"tag": "c:tortillas"},
+    {"tag": "c:tortillas"}
+  ],
+  "result": {
+    "item": "cheftopia:grapha_special_1",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "cheftopia:raw_bagel"
+  },
+  "result": "cheftopia:bagel",
+  "experience": 0.35,
+  "cookingtime": 100
+}

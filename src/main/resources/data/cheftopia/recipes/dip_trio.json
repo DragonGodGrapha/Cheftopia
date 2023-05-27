@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tortillas"
+    },
+    {
+      "tag": "c:salsas"
+    },
+    {
+      "tag": "c:guacamoles"
+    },
+    {
+      "tag": "c:quesos"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:dip_trio",
+    "count": 4
+  }
+}

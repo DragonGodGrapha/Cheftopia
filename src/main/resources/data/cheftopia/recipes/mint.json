@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:leaves"
+    },
+    {
+      "tag": "c:food_press"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:mint",
+    "count": 8
+  }
+}

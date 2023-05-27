@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:water_bottles"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "c:creams"
+    },
+    {
+      "tag": "c:olive_oils"
+    },
+    {
+      "tag": "c:cooking_pots"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:funnel_cake",
+    "count": 1
+  }
+}

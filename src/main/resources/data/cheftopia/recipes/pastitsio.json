@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:ground_pork"
+    },
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:noodles"
+    },
+    {
+      "tag": "c:tomatoes"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "c:onions"
+    },
+    {
+      "tag": "c:nutmegs"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:pastitsio",
+    "count": 1
+  }
+}

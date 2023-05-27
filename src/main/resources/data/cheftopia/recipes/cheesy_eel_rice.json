@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cheftopia:grilled_eel"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "c:steamed_rices"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:cheesy_eel_rice",
+    "count": 1
+  }
+}

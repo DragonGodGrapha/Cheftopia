@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CNC",
+    "RST",
+    "NNN"
+  ],
+  "key": {
+    "C": {
+      "tag": "c:cheeses"
+    },
+    "N": {
+      "tag": "c:noodles"
+    },
+    "R": {
+      "item": "cheftopia:ricotta"
+    },
+    "S": {
+      "tag": "c:ground_pork"
+    },
+    "T": {
+      "tag": "c:tomatoes"
+    }
+  },
+  "result": {
+    "item": "cheftopia:lasagna"
+  }
+}

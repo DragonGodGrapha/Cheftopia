@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tequilas"
+    },
+    {
+      "tag": "c:sodas"
+    },    {
+      "tag": "c:grapefruits"
+    },
+    {
+      "tag": "c:limes"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:paloma",
+    "count": 1
+  }
+}

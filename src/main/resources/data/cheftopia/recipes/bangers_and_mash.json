@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:mashed_potatoes"
+    },
+    {
+      "tag": "c:sausages"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:bangers_and_mash",
+    "count": 1
+  }
+}

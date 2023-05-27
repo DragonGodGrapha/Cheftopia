@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "tag": "c:cooked_bacon"
+    },
+    {
+      "tag": "c:tomatoes"
+    },
+    {
+      "tag": "c:baked_beans"
+    },
+    {
+      "tag": "c:toasts"
+    },
+    {
+      "tag": "c:sunny_side_eggs"
+    },
+    {
+      "item": "cheftopia:black_pudding"
+    },
+    {
+      "tag": "c:hashed_brown"
+    },
+    {
+      "tag": "c:frying_pans"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:english_breakfast",
+    "count": 1
+  }
+}

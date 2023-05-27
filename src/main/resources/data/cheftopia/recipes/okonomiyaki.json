@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "croptopia:pork_replacements"
+    },
+    {
+      "tag": "minecraft:fishes"
+    },
+    {
+      "tag": "c:cabbage"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:mayos"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:okonomiyaki",
+    "count": 1
+  }
+}

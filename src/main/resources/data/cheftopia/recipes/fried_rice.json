@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:vegetables"
+    },
+    {
+      "tag": "croptopia:meat_replacements"
+    },
+    {
+      "tag": "c:frying_pans"
+    },
+    {
+      "tag": "c:soy_sauces"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:fried_rice",
+    "count": 1
+  }
+}

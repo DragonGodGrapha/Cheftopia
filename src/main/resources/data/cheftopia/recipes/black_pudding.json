@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:ground_pork"
+    },
+    {
+      "item": "minecraft:ink_sac"
+    },
+    {
+      "tag": "c:grain"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:black_pudding",
+    "count": 1
+  }
+}

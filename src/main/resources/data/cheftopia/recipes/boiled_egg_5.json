@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+
+    {
+      "tag": "c:water_bottles"
+    },
+    {
+      "tag": "c:cooking_pots"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:boiled_egg",
+    "count": 5
+  }
+}

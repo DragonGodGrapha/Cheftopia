@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cheftopia:pita"
+    },
+    {
+      "tag": "c:tomatoes"
+    },
+    {
+      "tag": "croptopia:meat_replacements"
+    },
+    {
+      "tag": "c:cucumbers"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "item": "cheftopia:tzatziki"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:gyro",
+    "count": 1
+  }
+}

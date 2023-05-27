@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "croptopia:meat_replacements"
+    },
+    {
+      "tag": "minecraft:fishes"
+    },
+    {
+      "tag": "c:celery"
+    },
+    {
+      "tag": "c:bellpeppers"
+    },
+    {
+      "tag": "c:onions"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:butters"
+    },
+    {
+      "tag": "c:steamed_rices"
+    },
+    {
+      "tag": "c:cooking_pots"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:gumbo",
+    "count": 1
+  }
+}

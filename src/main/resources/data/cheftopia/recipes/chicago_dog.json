@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:sausages"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:mustard"
+    },
+    {
+      "tag": "c:cucumbers"
+    },
+    {
+      "tag": "c:tomatoes"
+    },
+    {
+      "tag": "c:vinegars"
+    },
+    {
+      "tag": "c:onions"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:chicago_dog",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FVT",
+    "SCS",
+    "DDD"
+  ],
+  "key": {
+    "C": {
+      "tag": "c:cheeses"
+    },
+    "D": {
+      "tag": "c:doughs"
+    },
+    "V": {
+      "tag": "c:vegetables"
+    },
+    "S": {
+      "tag": "c:sausages"
+    },
+    "T": {
+      "tag": "c:tomatoes"
+    },
+    "F": {
+      "tag": "c:frying_pans"
+    }
+  },
+  "result": {
+    "item": "cheftopia:deepdish_pizza",
+    "count": 2
+  }
+}

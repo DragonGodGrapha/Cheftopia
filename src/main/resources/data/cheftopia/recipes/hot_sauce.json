@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:chile_peppers"
+    },
+    {
+      "tag": "c:chile_peppers"
+    },    {
+      "tag": "c:chile_peppers"
+    },
+    {
+      "tag": "c:vinegars"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:hot_sauce",
+    "count": 8
+  }
+}

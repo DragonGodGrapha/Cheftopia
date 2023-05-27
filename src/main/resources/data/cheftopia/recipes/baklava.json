@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:doughs"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "tag": "c:nuts"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:baklava",
+    "count": 1
+  }
+}

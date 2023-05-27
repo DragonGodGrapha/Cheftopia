@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "item": "cheftopia:bagel"
+    },
+    {
+      "tag": "c:cooked_eggs"
+    },
+    {
+      "tag": "c:cooked_bacon"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:bagel_sandwich",
+    "count": 1
+  }
+}

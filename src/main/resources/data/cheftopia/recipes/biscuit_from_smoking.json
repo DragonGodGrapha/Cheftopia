@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "tag": "c:doughs"
+  },
+  "result": "cheftopia:biscuit",
+  "experience": 0.35,
+  "cookingtime": 100
+}

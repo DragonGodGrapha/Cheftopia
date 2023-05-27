@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:hashed_brown"
+    },
+    {
+      "tag":"c:hashed_brown"
+    },
+    {
+      "item": "cheftopia:chorizo"
+    },
+    {
+      "tag": "c:onions"
+    },
+    {
+      "tag": "c:garlic"
+    },
+    {"tag": "c:chile_peppers"},
+    {"tag": "c:frying_pans"},
+    {"tag": "c:cheeses"},
+    {"tag": "c:hot_sauces"}
+  ],
+  "result": {
+    "item": "cheftopia:grapha_special_2",
+    "count": 1
+  }
+}

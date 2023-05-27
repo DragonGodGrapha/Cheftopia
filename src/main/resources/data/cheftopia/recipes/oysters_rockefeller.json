@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:oysters"
+    },
+    {
+      "tag": "c:spinach"
+    },
+    {
+      "tag": "c:bread_crumbs"
+    },
+    {
+      "tag": "c:butters"
+    },
+    {
+      "tag": "c:lemons"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:oysters_rockefeller",
+    "count": 1
+  }
+}

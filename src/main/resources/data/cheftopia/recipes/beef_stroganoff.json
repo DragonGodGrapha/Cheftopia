@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "croptopia:beef_replacements"
+    },
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:noodles"
+    },
+    {
+      "tag": "c:olive_oils"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:beef_stroganoff",
+    "count": 1
+  }
+}

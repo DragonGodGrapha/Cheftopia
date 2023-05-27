@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:sugars"
+    },
+    {
+      "tag": "c:chocolates"
+    },
+    {
+      "item": "cheftopia:latte"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:mocha",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cooking_pots"
+    },
+    {
+      "tag": "croptopia:chicken_replacements"
+    },
+    {
+      "tag": "c:olive_oils"
+    },
+    {
+      "tag": "c:hot_sauces"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:hot_wings",
+    "count": 4
+  }
+}

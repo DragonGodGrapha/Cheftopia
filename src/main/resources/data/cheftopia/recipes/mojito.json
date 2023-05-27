@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:rums"
+    },
+    {
+      "tag": "c:sodas"
+    },    {
+      "tag": "c:sugars"
+    },
+    {
+      "tag": "c:mints"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:mojito",
+    "count": 1
+  }
+}

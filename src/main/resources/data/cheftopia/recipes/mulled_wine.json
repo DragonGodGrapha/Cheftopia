@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:wines"
+    },
+    {
+      "tag": "c:oranges"
+    },
+    {
+      "tag": "c:cinnamon"
+    },
+    {
+      "tag": "c:nutmegs"
+    },
+    {
+      "tag": "c:gingers"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:mulled_wine",
+    "count": 1
+  }
+}

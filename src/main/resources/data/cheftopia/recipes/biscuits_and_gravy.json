@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:biscuits"
+    },
+    {
+      "tag": "c:biscuits"
+    },
+    {
+      "tag": "c:sausages"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:butters"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:biscuits_and_gravy",
+    "count": 1
+  }
+}

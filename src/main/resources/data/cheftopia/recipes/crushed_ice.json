@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "tag": "c:food_press"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:crushed_ice",
+    "count": 16
+  }
+}

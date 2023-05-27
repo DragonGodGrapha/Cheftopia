@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:toasts"
+    },
+    {
+      "tag": "c:food_press"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:bread_crumbs",
+    "count": 8
+  }
+}

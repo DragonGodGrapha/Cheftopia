@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "c:frying_pans"
+    },
+    {
+      "item": "cheftopia:kimchi"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:kimchi_pancake",
+    "count": 1
+  }
+}

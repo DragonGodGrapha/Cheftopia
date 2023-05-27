@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:mangos"
+    },
+    {
+      "tag": "c:yoghurts"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:mango_lassi",
+    "count": 1
+  }
+}

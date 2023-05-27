@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:ground_pork"
+    },
+    {
+      "tag": "c:salts"
+    },
+    {
+      "tag": "c:chile_peppers"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:chorizo",
+    "count": 1
+  }
+}
