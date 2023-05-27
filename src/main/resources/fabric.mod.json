@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "cheftopia",
+  "version": "${version}",
+
+  "name": "Cheftopia",
+  "description": "More foods to go with the Croptopia mod",
+  "authors": [
+    "Grapha"
+  ],
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.grapha.cheftopia.Cheftopia"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+  "croptopia": "2.1.2"
+  }
+}
