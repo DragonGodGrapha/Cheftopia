@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:rums"
+    },
+    {
+      "tag": "c:tropical_fruits"
+    },
+    {
+      "tag": "c:fruits"
+    },
+    {
+      "tag": "c:citrus_fruits"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:punch",
+    "count": 1
+  }
+}

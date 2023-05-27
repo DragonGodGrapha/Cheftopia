@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:chile_peppers"
+    },
+    {
+      "tag": "c:coconuts"
+    },
+    {
+      "tag": "c:vegetables"
+    },
+    {
+      "tag": "c:vegetables"
+    },
+    {
+      "tag": "croptopia:meat_replacements"
+    },
+    {
+      "tag": "c:steamed_rices"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:thai_curry",
+    "count": 1
+  }
+}

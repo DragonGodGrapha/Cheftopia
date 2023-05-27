@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:lemons"
+    },
+    {
+      "tag": "c:sugars"
+    },    {
+      "tag": "c:sodas"
+    },
+    {
+      "tag": "c:gins"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:tom_collins",
+    "count": 1
+  }
+}

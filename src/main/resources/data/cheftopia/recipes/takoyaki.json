@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:calamari"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "tag": "c:greenonions"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:takoyaki",
+    "count": 6
+  }
+}

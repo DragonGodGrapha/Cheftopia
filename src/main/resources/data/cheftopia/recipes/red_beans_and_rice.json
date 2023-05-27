@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:blackbeans"
+    },
+    {
+      "tag": "c:sausages"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:onions"
+    },
+    {
+      "tag": "c:paprika"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:beans_and_rice",
+    "count": 1
+  }
+}

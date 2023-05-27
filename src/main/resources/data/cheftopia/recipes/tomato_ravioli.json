@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:ravioli"
+    },
+    {
+      "tag": "c:tomatoes"
+    },
+    {
+      "tag": "c:onions"
+    },
+    {
+      "tag": "c:garlics"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:tomato_ravioli",
+    "count": 1
+  }
+}

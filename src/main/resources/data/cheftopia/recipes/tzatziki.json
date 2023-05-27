@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:garlic"
+    },
+    {
+      "tag": "c:cucumbers"
+    },
+    {
+      "tag": "c:onions"
+    },
+    {
+      "tag": "c:lemons"
+    },
+    {
+      "tag": "c:olive_oils"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:tzatziki",
+    "count": 4
+  }
+}

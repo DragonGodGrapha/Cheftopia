@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tofu"
+    },
+    {
+      "tag": "c:knives"
+    },
+    {
+      "tag": "c:paprika"
+    }
+  ],
+  "result": {
+    "item": "croptopia:bacon",
+    "count": 1
+  }
+}

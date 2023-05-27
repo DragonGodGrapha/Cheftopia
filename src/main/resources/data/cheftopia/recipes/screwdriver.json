@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:vodkas"
+    },
+    {
+      "tag": "c:oranges"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:screwdriver",
+    "count": 1
+  }
+}

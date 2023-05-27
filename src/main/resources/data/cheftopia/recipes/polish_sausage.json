@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:sausages"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:mustard"
+    },
+    {
+      "tag": "c:bellpeppers"
+    },
+    {
+      "tag": "c:onions"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:polish_sausage",
+    "count": 1
+  }
+}

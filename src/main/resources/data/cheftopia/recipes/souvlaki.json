@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "croptopia:meat_replacements"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "cheftopia:tzatziki"
+    },
+    {
+      "item": "cheftopia:pita"
+    },
+    {
+      "tag": "c:vegetables"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:souvlaki",
+    "count": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:vinegars"
+    },
+    {
+      "tag": "croptopia:meat_replacements"
+    },    {
+      "tag": "c:sugars"
+    },
+    {
+      "tag": "c:gingers"
+    },
+    {
+      "tag": "c:chile_peppers"
+    },
+    {
+      "tag": "c:chile_peppers"
+    },
+    {
+      "tag": "c:steamed_rices"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:vindaloo",
+    "count": 1
+  }
+}

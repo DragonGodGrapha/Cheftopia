@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS ",
+    " T ",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "tag": "c:salts"
+    },
+    "T": {
+      "tag": "c:tofu"
+    }
+  },
+  "result": {
+    "item": "minecraft:beef",
+    "count": 1
+  }
+}

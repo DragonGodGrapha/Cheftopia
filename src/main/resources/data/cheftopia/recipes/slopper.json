@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "croptopia:beef_replacements"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:frying_pans"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "c:onions"
+    },
+    {
+      "item": "cheftopia:green_chile_stew"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:slopper",
+    "count": 1
+  }
+}

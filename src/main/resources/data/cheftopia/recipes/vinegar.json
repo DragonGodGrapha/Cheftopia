@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GWG",
+    "SGF",
+    " P "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "P": {
+      "tag": "c:cooking_pots"
+    },
+    "S": {
+      "tag": "c:salts"
+    },
+    "F": {
+      "tag": "c:fruits"
+    }
+  },
+  "result": {
+    "item": "cheftopia:vinegar",
+    "count": 16
+  }
+}

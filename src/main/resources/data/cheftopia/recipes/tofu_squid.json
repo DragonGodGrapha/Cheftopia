@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " K ",
+    "STS",
+    " K "
+  ],
+  "key": {
+    "S": {
+      "tag": "c:salts"
+    },
+    "T": {
+      "tag": "c:tofu"
+    },
+    "K": {
+      "item": "minecraft:dried_kelp"
+    }
+  },
+  "result": {
+    "item": "croptopia:calamari",
+    "count": 1
+  }
+}

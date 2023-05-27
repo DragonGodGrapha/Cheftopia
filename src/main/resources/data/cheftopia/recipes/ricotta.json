@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:cooking_pots"
+    },
+    {
+      "tag": "c:vinegars"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:ricotta",
+    "count": 8
+  }
+}

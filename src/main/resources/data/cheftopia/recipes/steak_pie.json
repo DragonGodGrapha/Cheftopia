@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "tag": "croptopia:beef_replacements"
+    },
+    {
+      "tag": "c:vegetables"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:doughs"
+    },
+    {
+      "tag": "c:frying_pans"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:steak_pie",
+    "count": 1
+  }
+}

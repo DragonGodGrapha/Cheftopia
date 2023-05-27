@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:sugars"
+    },    {
+      "tag": "c:strawberries"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:strawberry_milk",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:currants"
+    },
+    {
+      "tag": "c:cranberries"
+    },
+    {
+      "tag": "c:gingers"
+    },
+    {
+      "tag": "c:cinnamon"
+    },
+    {
+      "tag": "c:nutmegs"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:wassail",
+    "count": 1
+  }
+}

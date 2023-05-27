@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cheftopia:ladyfingers"
+    },
+    {
+      "item": "cheftopia:ricotta"
+    },
+    {
+      "tag": "c:espressos"
+    },
+    {
+      "tag": "c:sugars"
+    },
+    {
+      "tag": "c:creams"
+    },
+    {
+      "tag":  "c:chocolates"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:tiramisu",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:pineapple_juices"
+    },
+    {
+      "tag": "c:oranges"
+    },    {
+      "tag": "c:limes"
+    },
+    {
+      "tag": "c:gins"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:singapore_sling",
+    "count": 1
+  }
+}

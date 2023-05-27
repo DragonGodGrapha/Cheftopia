@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:brandys"
+    },
+    {
+      "tag": "c:oranges"
+    },    {
+      "tag": "c:lemons"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:sidecar",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "tag": "minecraft:fishes"
+    },
+    {
+      "tag": "croptopia:beef_replacements"
+    },
+    {
+      "tag": "c:rice"
+    }
+
+  ],
+  "result": {
+    "item": "croptopia:sushi",
+    "count": 1
+  }
+}

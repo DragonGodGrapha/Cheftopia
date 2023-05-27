@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:lettuce"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "cheftopia:chorizo"
+    },
+    {
+      "tag": "c:blackbeans"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:torta",
+    "count": 1
+  }
+}

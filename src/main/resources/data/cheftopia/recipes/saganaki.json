@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "item": "cheftopia:pita"
+    },
+    {
+      "tag": "c:spirits"
+    },
+    {
+      "item": "minecraft:fire_charge"
+    },
+    {
+      "tag": "c:lemons"
+    }
+
+  ],
+  "result": {
+    "item": "cheftopia:saganaki",
+    "count": 2
+  }
+}

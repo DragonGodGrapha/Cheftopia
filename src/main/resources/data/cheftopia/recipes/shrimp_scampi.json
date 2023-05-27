@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:shrimp"
+    },
+    {
+      "tag": "c:lemons"
+    },
+    {
+      "tag": "c:noodles"
+    },
+    {
+      "tag": "c:garlic"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:shrimp_scampi",
+    "count": 1
+  }
+}
