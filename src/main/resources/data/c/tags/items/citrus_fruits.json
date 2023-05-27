@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#c:limes",
+    "#c:lemons",
+    "#c:oranges",
+    "#c:grapefruits",
+    "#c:kumquats"
+  ]
+}

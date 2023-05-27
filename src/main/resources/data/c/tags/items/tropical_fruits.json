@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#c:kiwis",
+    "#c:pineapples",
+    "#c:coconuts",
+    "#c:bananas",
+    "#c:dragonfruits",
+    "#c:mangos"
+  ]
+}

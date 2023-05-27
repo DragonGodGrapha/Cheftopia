@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#c:scrambled_eggs",
+    "#c:sunny_side_eggs",
+    "#c:boiled_eggs"
+  ]
+}

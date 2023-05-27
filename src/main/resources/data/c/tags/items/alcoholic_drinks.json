@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "#c:brandys",
+    "#c:rums",
+    "#c:vodkas",
+    "#c:gins",
+    "#c:tequilas",
+    "#c:whiskeys",
+    "#c:wines",
+    "#c:beers",
+    "#c:meads",
+    "cheftopia:brandy_smash",
+    "cheftopia:irish_coffee",
+    "cheftopia:margarita",
+    "cheftopia:mint_julep",
+    "cheftopia:mojito",
+    "cheftopia:moscow_mule",
+    "cheftopia:paloma",
+    "cheftopia:punch",
+    "cheftopia:screwdriver",
+    "cheftopia:sidecar",
+    "cheftopia:singapore_sling",
+    "cheftopia:tom_collins"
+  ]
+}

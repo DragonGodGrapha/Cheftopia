@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#c:brandys",
+    "#c:rums",
+    "#c:vodkas",
+    "#c:gins",
+    "#c:tequilas",
+    "#c:whiskeys"
+
+  ]
+}
