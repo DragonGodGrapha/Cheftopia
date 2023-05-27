@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "croptopia:chicken_replacements"
+    },
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:noodles"
+    },
+    {
+      "tag": "c:cheeses"
+    },
+    {
+      "tag": "c:nutmegs"
+    },
+    {
+      "tag": "c:cooked_bacon"
+    }
+  ],
+  "result": {
+    "item": "cheftopia:bacon_alfredo",
+    "count": 1
+  }
+}
